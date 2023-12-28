@@ -1,2 +1,2 @@
-# KirbyModWiki
-thing
+# KirbyMod
+
