@@ -1,0 +1,2 @@
+# KirbyModWiki
+thing
